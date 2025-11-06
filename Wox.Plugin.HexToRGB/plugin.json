@@ -1,0 +1,12 @@
+{
+    "ID": "26586C8B-AB41-75A3-E2DD-DB59FEC2FA19",
+    "ActionKeyword": "hex|HEX",
+    "Name": "HEX转RGB",
+    "Description": "将HEX颜色值转换为RGB/RGBA格式",
+    "Author": "LiteZero",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "",
+    "IcoPath": "Images/icon.png",
+    "ExecuteFileName": "Wox.Plugin.HexToRGB.dll"
+}
